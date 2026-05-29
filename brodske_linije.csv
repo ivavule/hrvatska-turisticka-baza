@@ -1,0 +1,85 @@
+"broj_linije","luka_a","luka_b","okruzje","tip","trajanje_min"
+310,"Mali Lošinj","Vele Srakane","Rijecko","trajekt",50
+310,"Vele Srakane","Unije","Rijecko","trajekt",40
+310,"Unije","Susak","Rijecko","trajekt",55
+310,"Susak","Mali Lošinj","Rijecko","trajekt",60
+332,"Valbiska","Merag","Rijecko","trajekt",25
+334,"Brestova","Porozina","Rijecko","trajekt",20
+335,"Prizna","Žigljen","Rijecko","trajekt",15
+338,"Valbiska","Lopar","Rijecko","trajekt",80
+323,"Kraljevica","Crikvenica","Rijecko","brodska",30
+323,"Crikvenica","Senj","Rijecko","brodska",45
+323,"Senj","Baška","Rijecko","brodska",30
+323,"Baška","Lopar","Rijecko","brodska",40
+323,"Lopar","Rab","Rijecko","brodska",45
+9308,"Mali Lošinj","Ilovik","Rijecko","brzobrodska",40
+9308,"Ilovik","Susak","Rijecko","brzobrodska",35
+9308,"Susak","Unije","Rijecko","brzobrodska",30
+9308,"Unije","Martinšćica","Rijecko","brzobrodska",40
+9308,"Martinšćica","Cres","Rijecko","brzobrodska",45
+9308,"Cres","Rijeka","Rijecko","brzobrodska",80
+9309,"Rijeka","Rab","Rijecko","brzobrodska",105
+9309,"Rab","Novalja","Rijecko","brzobrodska",45
+401,"Zadar","Ist","Zadarsko","trajekt",130
+401,"Ist","Olib","Zadarsko","trajekt",40
+401,"Olib","Silba","Zadarsko","trajekt",40
+401,"Silba","Premuda","Zadarsko","trajekt",35
+401,"Premuda","Mali Lošinj","Zadarsko","trajekt",95
+409,"Zadar","Preko","Zadarsko","brodska",25
+431,"Zadar","Ošljak","Zadarsko","trajekt",15
+431,"Ošljak","Preko","Zadarsko","trajekt",15
+432,"Biograd na Moru","Tkon","Zadarsko","trajekt",15
+433,"Zadar","Rivanj","Zadarsko","trajekt",75
+433,"Rivanj","Sestrunj","Zadarsko","trajekt",25
+433,"Sestrunj","Zverinac","Zadarsko","trajekt",35
+433,"Zverinac","Molat","Zadarsko","trajekt",30
+433,"Molat","Ist","Zadarsko","trajekt",60
+434,"Zadar","Brbinj","Zadarsko","trajekt",95
+435,"Zadar","Bršanj","Zadarsko","trajekt",75
+435,"Bršanj","Rava","Zadarsko","trajekt",50
+435,"Rava","Mala Rava","Zadarsko","trajekt",70
+322,"Zadar","Silba","Zadarsko","trajekt",75
+322,"Silba","Mali Lošinj","Zadarsko","trajekt",45
+9403,"Zadar","Molat","Zadarsko","brzobrodska",50
+9403,"Molat","Brgulje","Zadarsko","brzobrodska",10
+9403,"Brgulje","Zapuntel","Zadarsko","brzobrodska",25
+9403,"Zapuntel","Ist","Zadarsko","brzobrodska",10
+9404,"Zadar","Rivanj","Zadarsko","brzobrodska",35
+9404,"Rivanj","Sestrunj","Zadarsko","brzobrodska",5
+9404,"Sestrunj","Zverinac","Zadarsko","brzobrodska",20
+9404,"Zverinac","Božava","Zadarsko","brzobrodska",5
+9404,"Božava","Brbinj","Zadarsko","brzobrodska",20
+9405,"Zadar","Mali Iž","Zadarsko","brzobrodska",35
+9405,"Mali Iž","Veli Iž","Zadarsko","brzobrodska",15
+9405,"Veli Iž","Mala Rava","Zadarsko","brzobrodska",15
+9405,"Mala Rava","Rava","Zadarsko","brzobrodska",10
+505,"Šibenik","Zlarin","Sibensko","brodska",25
+505,"Zlarin","Prvić Luka","Sibensko","brodska",25
+505,"Prvić Luka","Vodice","Sibensko","brodska",15
+532,"Šibenik","Zlarin","Sibensko","trajekt",25
+532,"Šibenik","Obonjan","Sibensko","trajekt",70
+532,"Zlarin","Kaprije","Sibensko","trajekt",70
+532,"Kaprije","Žirje","Sibensko","trajekt",25
+602,"Split","Vis","Splitsko","trajekt",140
+604,"Split","Vela Luka","Splitsko","trajekt",210
+604,"Vela Luka","Lastovo/Ubli","Splitsko","trajekt",90
+606,"Trogir","Drvenik Mali","Splitsko","trajekt",55
+606,"Drvenik Mali","Drvenik Veliki","Splitsko","trajekt",20
+631,"Split","Supetar","Splitsko","trajekt",50
+632,"Drvenik","Sućuraj","Splitsko","trajekt",30
+633,"Ploče","Trpanj","Splitsko","trajekt",60
+634,"Orebić","Korčula/Dominče","Splitsko","trajekt",20
+635,"Split","Stari Grad","Splitsko","trajekt",110
+636,"Split","Rogač","Splitsko","trajekt",60
+638,"Sumartin","Makarska","Splitsko","trajekt",50
+641,"Split","Hvar","Splitsko","brzobrodska",65
+659,"Split","Bol","Splitsko","brzobrodska",60
+659,"Bol","Hvar","Splitsko","brzobrodska",45
+659,"Hvar","Vis","Splitsko","brzobrodska",35
+9603,"Split","Bol","Splitsko","brzobrodska",65
+9603,"Bol","Jelsa","Splitsko","brzobrodska",20
+9603,"Split","Stari Grad","Splitsko","brzobrodska",60
+831,"Dubrovnik","Koločep","Dubrovacko","trajekt",30
+831,"Koločep","Lopud","Dubrovacko","trajekt",35
+831,"Lopud","Suđurađ","Dubrovacko","trajekt",20
+832,"Prapratno","Sobra","Dubrovacko","trajekt",40

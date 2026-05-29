@@ -1,0 +1,66 @@
+ime,lokacija,tip_lokacije,linija
+Valbiska,Krk,otok,332 338
+Merag,Cres,otok,332
+Porozina,Cres,otok,334
+Brestova,Istra,kopno,334
+Prizna,Lika,kopno,335
+Žigljen,Pag,otok,335
+Mišnjak,Rab,otok,337
+Stinica,Lika,kopno,337
+Lopar,Rab,otok,338
+Zadar/Gaženica,Zadar,kopno,431 433 434
+Preko,Ugljan,otok,431
+Ošljak,Ošljak,otok,431
+Tkon,Pašman,otok,432
+Biograd na Moru,Biograd,kopno,432
+Rivanj,Rivanj,otok,433
+Sestrunj,Sestrunj,otok,433
+Zverinac,Zverinac,otok,433
+Molat,Molat,otok,433
+Ist,Ist,otok,433
+Brbinj,Dugi Otok,otok,434
+Šibenik,Šibenik,kopno,532 9502
+Zlarin,Zlarin,otok,532
+Kaprije,Kaprije,otok,532 9502
+Žirje,Žirje,otok,532 9502
+Vis,Vis,otok,602 9602
+Split,Split,kopno,602 604 631 636 638 9601 9602 9603 9604
+Lastovo/Ubli,Lastovo,otok,604 9604 9807 9808
+Vela Luka,Korčula,otok,604 9604
+Hvar,Hvar,otok,604 9602 9603 9604 9608
+Trogir/Soline,Trogir,kopno,606
+Drvenik Veliki,Drvenik Veliki,otok,606
+Drvenik Mali,Drvenik Mali,otok,606
+Supetar,Brač,otok,631
+Sućuraj,Hvar,otok,632
+Drvenik,Dalmacija,kopno,632
+Ploče,Ploče,kopno,633
+Trpanj,Pelješac,kopno,633
+Korčula/Dominče,Korčula,otok,634 9608 9807 9808
+Orebić,Pelješac,kopno,634
+Rogač,Šolta,otok,636 9601
+Sumartin,Brač,otok,638
+Makarska,Makarska,kopno,638
+Dubrovnik,Dubrovnik,kopno,831 9807 9808
+Suđurađ,Šipan,otok,831
+Lopud,Lopud,otok,831
+Koločep/Donje Čelo,Koločep,otok,831
+Sobra,Mljet,otok,832 9807 9808
+Prapratno,Pelješac,kopno,832
+Mali Lošinj,Lošinj,kopno,311 9141 9308
+Ilovik,Ilovik,otok,311 9141
+Pula,Pula,kopno,9141
+Rijeka,Rijeka,kopno,9308 9309
+Cres,Cres,otok,9308
+Novalja,Pag,otok,9309
+Rab,Rab,otok,9309
+Olib,Olib,otok,9401
+Silba,Silba,otok,9401 9141
+Premuda,Premuda,otok,9401
+Jelsa,Hvar,otok,9603
+Stari Grad,Hvar,otok,9603
+Bol,Brač,otok,9603
+Milna,Brač,otok,9601 9602
+Prigradica,Korčula,otok,9608
+Polače,Mljet,otok,9807
+Šipanska Luka,Šipan,otok,9807
